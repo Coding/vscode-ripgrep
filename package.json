@@ -15,5 +15,8 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^10.12.0"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^3.0.1"
   }
 }
